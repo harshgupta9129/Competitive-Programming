@@ -1,7 +1,6 @@
-1
-2
-3
-2
-0
-2
-2
+Bob
+Bob
+Bob
+Alice
+Bob
+Bob
